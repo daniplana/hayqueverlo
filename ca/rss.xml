@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/ca">
+  <channel>
+    <title>Hayqueverlo.com - Desarrollo de Webs y realización de contenidos</title>
+    <link>https://www.hayqueverlo.com/ca</link>
+    <description/>
+    <language>ca</language>
+    
+    <item>
+  <title>La Linux Foundation llença el gestor de paquets FAIR per al WordPress</title>
+  <link>https://www.hayqueverlo.com/ca/node/59</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;La Linux Foundation llença el gestor de paquets FAIR per al WordPress&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2025-06-12T10:38:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/12/2025 - 12:38&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2025 10:38:16 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">59 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Comparativa de sistemas de compilación de hojas de estilo CSS</title>
+  <link>https://www.hayqueverlo.com/es/blog/comparativa-sass-less-stylus-postcss-tailwind</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Comparativa de sistemes de compilació de fulls d'estil CSS&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2025-06-04T18:03:40+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/04/2025 - 20:03&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 04 Jun 2025 17:30:17 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">57 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Preparant la transició cap a Drupal 11</title>
+  <link>https://www.hayqueverlo.com/ca/blog/actualitzar-drupal-11</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Preparant la transició cap a Drupal 11&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-09-13T08:43:44+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 09/13/2024 - 10:43&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Sep 2024 08:43:44 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">56 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Gestores de contenidos Flat File </title>
+  <link>https://www.hayqueverlo.com/es/blog/gestores-contenidos-cms-flat-file</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Gestors de continguts Flat File &lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-04-30T14:01:18+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 04/30/2024 - 16:01&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 May 2025 14:00:02 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">19 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para Valuup.es</title>
+  <link>https://www.hayqueverlo.com/es/node/55</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a Valuup.es&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 03/21/2024 - 16:11&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Web per a Valuup.es&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Disseny personalitzat i implementació del web amb el gestor de continguts Drupal 10. Formulari de contacte, eines per a la gestió de fotografies i automatització de SEO.&lt;/p&gt;&lt;p&gt;&lt;a href="https://valuup.es" target="blank"&gt;Valuup.es&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 21 Mar 2024 14:54:28 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">55 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Retransmitir vídeo en directo a través de Internet</title>
+  <link>https://www.hayqueverlo.com/es/blog/video-directo-obs-studio</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Retransmetre vídeo en directe a traves d’Internet&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-01-11T10:24:15+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 01/11/2024 - 11:24&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 11 Jan 2024 10:11:50 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">54 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para el Gimnàs Social Sant Pau</title>
+  <link>https://www.hayqueverlo.com/es/node/53</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per al Gimnàs Social Sant Pau&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/07/2023 - 16:08&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Web per al Gimnàs Social Sant Pau&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Web per al Gimnàs Social Sant Pau amb el gestor de continguts Drupal i una plantilla desenvolupada a mida que utilitza tècniques "responsive design". Eines per a la gestió de formularis.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.GimnasSocialSantPau.com" title="Gimnàs Social Sant Pau" target="_blank"&gt;www.GimnasSocialSantPau.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 07 Jun 2023 14:04:26 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">53 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Estación de trabajo de audio digital hecha con software libre</title>
+  <link>https://www.hayqueverlo.com/es/blog/daw-estacions-trabajo-audio-digital</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Estació de treball d’àudio digital feta amb programari lliure&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2023-02-10T14:56:49+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 02/10/2023 - 15:56&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Fri, 10 Feb 2023 14:49:40 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">49 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Poesía Espontánea</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/poesia-espontanea</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Poesia Espontànea&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 11/29/2022 - 17:08&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Poesia Espontànea&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Web amb el gestor de continguts Drupal 9&lt;/p&gt;&lt;p&gt;Disseny personalitzat basat en Bootstrap5&lt;/p&gt;&lt;p&gt;Realització del video per a la promoció de l'esdeveniment.&lt;/p&gt;&lt;p&gt;Web: &lt;a href="https://www.poesiaespontanea.com/" target="_blank"&gt;www.poesiaespontanea.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="https://www.youtube.com/embed/ndx-dsGto8I" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="385" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Tue, 29 Nov 2022 15:38:03 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">48 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>El Fediverso</title>
+  <link>https://www.hayqueverlo.com/es/blog/fediverso-redes-federadas</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;El Fedivers&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-08T16:16:53+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 11/08/2022 - 17:16&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sun, 06 Nov 2022 19:34:10 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">42 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

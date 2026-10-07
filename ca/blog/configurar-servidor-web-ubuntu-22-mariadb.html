@@ -1,0 +1,380 @@
+
+<!DOCTYPE html>
+<html lang="ca" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="h-100">
+  <head>
+    <link rel="apple-touch-icon" sizes="57x57" href="../../sites/default/files/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../../sites/default/files/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../../sites/default/files/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../../sites/default/files/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../../sites/default/files/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../../sites/default/files/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../../sites/default/files/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../../sites/default/files/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../sites/default/files/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../../sites/default/files/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../sites/default/files/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../../sites/default/files/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../sites/default/files/favicon/favicon-16x16.png">
+    <link rel="manifest" href="../../sites/default/files/favicon/manifest.json">
+    <link href="https://mastodon.social/@daniplana" rel="me">
+    <link href="https://mastodon.social/@hayqueverlo" rel="me">
+    <meta name="msapplication-TileColor" content="#9e0054">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#9e0054">
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="../../node/36.html" />
+<meta http-equiv="content-language" content="ca" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="../../node/36.html" />
+<meta name="news_keywords" content="Programari lliure,," />
+<link rel="image_src" href="../../sites/default/files/hayqueverlo-logo-metatag.jpg" />
+<meta name="description" content="Instal·lació d&#039;un servidor web Apache2, amb base de dades MariaDB i diferents versions de PHP" />
+<meta name="abstract" content="Instal·lació d&#039;un servidor web Apache2, amb base de dades MariaDB i diferents versions de PHP" />
+<meta name="keywords" content="software libre, open source, blog, creative commons,Programari lliure,," />
+<meta property="og:site_name" content="Hayqueverlo.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.hayqueverlo.com/ca/blog/configurar-servidor-web-ubuntu-22-mariadb" />
+<meta property="og:title" content="Instal·lació d&#039;un servidor web a Ubuntu 22.x" />
+<meta property="og:description" content="Instal·lació d&#039;un servidor web Apache2, amb base de dades MariaDB i diferents versions de PHP" />
+<meta property="og:image" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg?itok=Qt409Ila" />
+<meta property="og:image:url" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg?itok=Qt409Ila" />
+<meta property="og:image:secure_url" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg?itok=Qt409Ila" />
+<meta property="og:image:type" content="JPG/JPEG" />
+<meta property="og:image:width" content="64" />
+<meta property="og:image:height" content="64" />
+<meta property="og:image:alt" content="Hayqueverlo.com" />
+<meta property="article:tag" content="Programari lliure" />
+<meta property="article:tag" content="" />
+<meta property="article:tag" content="" />
+<meta property="article:published_time" content="Tue, 11/01/2022 - 16:32" />
+<meta property="article:modified_time" content="Wed, 01/31/2024 - 23:44" />
+<meta property="book:release_date" content="Tue, 11/01/2022 - 16:32" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #FFFFFF} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #000000;} .eu-cookie-withdraw-tab { border-color: #000000;}</style>
+<link rel="alternate" hreflang="ca" href="configurar-servidor-web-ubuntu-22-mariadb.html" />
+<link rel="alternate" hreflang="es" href="../../es/blog/instalacion-servidor-web-ubuntu-22.html" />
+
+    <title>Instal·lació d&#039;un servidor web a Ubuntu 22.x / blog Hayqueverlo.com</title>
+    <link rel="stylesheet" media="all" href="../../sites/default/files/css/css_KYbcCzZ2HOprsk3mP9DuPReaoqMueIb7bf7plL0zOQM.css" />
+<link rel="stylesheet" media="all" href="../../sites/default/files/css/css_dO7-W8se8lbktT0nvLidCnPJVICeF7OAB6RqZd33U-8.css" />
+
+    
+  </head>
+
+  <body class="route-entitynodecanonical path-node page-node-type-article  text-dark   d-flex flex-column h-100 anonymous node-id-36 ca">
+        <a href="configurar-servidor-web-ubuntu-22-mariadb.html#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+
+<header>
+  
+
+    <nav class="navbar navbar-expand-lg   ">
+
+          <div class="region region-nav-branding">
+    <div id="block-b4subtheme-site-branding" class="block block-system block-system-branding-block">
+  
+    
+  <div class="navbar-brand d-flex">
+
+    <a href="../../ca.html" title="Inici" rel="home" class="site-logo d-block">
+    <img src="../../themes/custom/b4subtheme/logo.svg" alt="Inici" />
+  </a>
+  
+  <div>
+        <a href="../../ca.html" title="Inici" rel="home" class="site-title">
+      Hayqueverlo.com
+    </a>
+    
+      </div>
+</div>
+</div>
+
+  </div>
+
+
+      <div class="col-3 col-md-auto p-0 text-right">
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse col-12 col-md-auto p-0 justify-content-end" id="navbarSupportedContent">
+          <div class="region region-nav-main">
+    <nav role="navigation" aria-labelledby="block-b4subtheme-main-menu-menu" id="block-b4subtheme-main-menu" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-b4subtheme-main-menu-menu">Main navigation</h5>
+  
+
+        
+            <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+          <a href="../../ca.html" class="nav-item nav-link" data-drupal-link-system-path="&lt;front&gt;">Inici</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../projectes-realitzats.html" class="nav-item nav-link" data-drupal-link-system-path="proyectos-realizados">Projectes realitzats</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../blog.html" class="nav-item nav-link" data-drupal-link-system-path="blog">Blog</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../contacta.html" class="nav-item nav-link" data-drupal-link-system-path="node/39">Contacta</a>
+      </li>
+
+        </ul>
+  
+
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/36" class="en"><a href="../../en/node/36.html" class="language-link" hreflang="en" data-drupal-link-system-path="node/36">English</a></li><li hreflang="ca" data-drupal-link-system-path="node/36" class="ca is-active"><a href="configurar-servidor-web-ubuntu-22-mariadb.html" class="language-link is-active" hreflang="ca" data-drupal-link-system-path="node/36">Català</a></li><li hreflang="es" data-drupal-link-system-path="node/36" class="es"><a href="../../es/blog/instalacion-servidor-web-ubuntu-22.html" class="language-link" hreflang="es" data-drupal-link-system-path="node/36">Castellano</a></li></ul>
+  </div>
+
+  </div>
+
+        
+      </div>
+
+  </nav>
+  
+</header>
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+
+  <div class="container-fluid m-0 p-0">
+            <div class="region region-breadcrumb">
+    <div id="block-b4subtheme-page-title" class="col-12 block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="display-4 text-left page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Instal·lació d&#039;un servidor web a Ubuntu 22.x</span>
+</h1>
+
+
+  </div>
+<div id="block-b4subtheme-breadcrumbs" class="col-12 block block-system block-system-breadcrumb-block">
+  
+    
+        <nav aria-label="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+                  <a href="../../ca.html">Inici</a>
+              </li>
+          <li class="breadcrumb-item">
+                  <a href="../blog.html">Blog</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+    
+    <div class="super-container">
+      <div class="row no-gutters">
+                <div class="order-1 order-lg-2 col-12">
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-b4subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="36" role="article" about="/ca/blog/configurar-servidor-web-ubuntu-22-mariadb" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-full">
+
+  
+      <span property="schema:name" content="Instal·lació d&#039;un servidor web a Ubuntu 22.x" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div  class="row justify-content-center">
+      
+<div  class="col-md-12 col-lg-6">
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Abans de començar, aclarim que aquesta guia no és per la instal·lació d'un servidor web accessible a traves d'Internet. Els aspectes sobre seguretat, rendiment i connectivitat no els tractem aquí.</p><p>Amb aquesta guia es tracta de posar en marxa un servidor <a href="http://httpd.apache.org/" target="_blank">web Apache 2</a> en un PC amb sistema operatiu Ubuntu 22.x o Debian. Amb la que tindrem un pràctic entorn de treball on provar <em>Drupal</em>, <em>Wordpress</em>, <em>Joomla</em> o altres aplicacions web. Per als sistemes operatius Mac OS X, Windows i Solaris tenim el instal·lador <a href="http://www.apachefriends.org/es/xampp.html" target="_blank">XAMPP</a>.</p><p>Si necessites tenir diferents configuracions de servidors web, pots optar per crear servidors virtuals amb VirtualBox, Gnome Spaces o KVM d'Ubuntu. Aquí tens la documentació <a href="https://help.ubuntu.com/community/KVM">help.ubuntu.com/community/KVM</a></p><h3>Instal·lació d'un servidor web a Ubuntu 22.x</h3><p>Per a iniciar l'instal·lació en el terminal</p><p><code>sudo apt install -y apache2 apache2-utils unzip</code></p><p>Canviarem el propietari del directori on s'allotjarà el web</p><p><code>sudo chown www-data:www-data /var/www/html/ -R</code></p><p>La configuració per defecte del servidor Apache2 la trobarem en l'arxiu <strong>000-default.conf</strong>, per editar-lo:</p><p><code>sudo vim /etc/apache2/sites-available/000-default.conf</code></p><p>En aquest arxiu hauríem d'incloure el següent:</p><p><code>&lt;VirtualHost *:80&gt;</code>&nbsp;<br><code>ServerName Servidor</code>&nbsp;<br><code>ServerAdmin webmaster@localhost</code>&nbsp;<br><code>DocumentRoot /var/www/html</code></p><p><code>&lt;Directory /var/www/html/&gt;</code>&nbsp;<br><code>Options Indexes FollowSymLinks</code>&nbsp;<br><code>AllowOverride All</code>&nbsp;<br><code>Require all granted</code>&nbsp;<br><code>&lt;/Directory&gt;</code>&nbsp;<br><br><code>&lt;/VirtualHost&gt;</code><directory var="" www="" html=""> </directory><directory var="" www="" html=""><br></directory></p><p>Una cop editada la configuració, la activarem i re-iniciarem el servidor web:&nbsp;<br><code>sudo service apache2 restart</code></p><p>Per a verificar la configuració del servidor web, esbrinarem la IP del servidor&nbsp;<br><code>ifconfig</code></p><p>o bé en el navegador web escriurem <em>localhost</em>.</p><h3>Instal·lació de la base de dades MariaDB</h3><p><code>sudo apt install mariadb-server mariadb-client</code></p><p>Comprovar si la base de dades està en funcionament:&nbsp;<br><code>systemctl status mariadb</code></p><p>En cas de no estar en marxa&nbsp;<br><code>sudo systemctl start mariadb</code></p><p>Permetre que automàticament es posi en funcionament la base de dades a l'iniciarelsistema&nbsp;<br><code>sudo systemctl enable mariadb</code></p><p>A continuació iniciarem un script de configuració de la base de dades MariaDB&nbsp;<br><code>sudo mysql_secure_installation</code></p><p>Accedir a la línia de comandes SQL&nbsp;<br><code>sudo mysql</code></p><p>Per a crear una base de dades per a Drupal 9, executa el següent:&nbsp;<br><code>CREATE DATABASE nom_base_dades CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code></p><p>Per a crear un usuari d'accés a la base de dades amb tots els permisos, executa el següent:&nbsp;<br><code>CREATE USER 'db_user'@'localhost' IDENTIFIED BY 'password!';</code></p><p><code>GRANT ALL PRIVILEGES ON * . * TO 'db_user'@'localhost';</code></p><p><code>FLUSH PRIVILEGES;</code></p><h3>Instal·lar múltiples versions de PHP</h3><p>Primer hauràs d'afegir el repositori de PHP en el teu sistema per a instal·lar múltiples versiones de PHP.&nbsp;<br><code>sudo apt-get install software-properties-common gnupg2 -y</code></p><p>Afegim el repositori de PHP&nbsp;<br><code>sudo add-apt-repository ppa:ondrej/php</code></p><p>Un cop afegit el repositori actualitzem:&nbsp;<br><code>sudo apt-get update -y</code></p><p>Per a instal·lar la versió <strong>PHP 7.2</strong> amb soport PHP-FPM, fes-ho executant el següent:&nbsp;<br><code>sudo apt-get install php7.2 php7.2-fpm php7.2-cli -y</code>&nbsp;<br><code>sudo apt-get install php7.2-mysql php7.2-mbstring php7.2-xml php7.2-gd php7.2-curl php7.2-zip php7.2-xmlrpc libapache2-mod-php7.2</code></p><p>Per a instal·lar la versió <strong>PHP 7.4</strong> amb suport PHP-FPM:&nbsp;<br><code>sudo apt-get install php7.4 php7.4-fpm php7.4-cli -y</code>&nbsp;<br><code>sudo apt-get install php7.4-mysql php7.4-mbstring php7.4-xml php7.4-gd php7.4-curl php7.4-zip php7.4-xmlrpc libapache2-mod-php7.4</code></p><p>Per a instal·lar la versió <strong>PHP 8.1</strong> amb suport PHP-FPM Utilitzada per <strong>Drupal</strong> <strong>9</strong>:&nbsp;<br><code>sudo apt-get install php8.1 php8.1-cli php8.1-common php8.1-imap php8.1-gd php8.1-redis php8.1-snmp php8.1-xml php8.1-mysql php8.1-zip php8.1-mbstring php8.1-curl libapache2-mod-php</code></p><p>Per comprovar la versió de PHP activada&nbsp;<br><code>php --version</code></p><p>Per a veure quin és l'arxiu de configuració<strong> php.ini</strong> en us<br><code>php -i | grep 'php.ini'</code></p><p>Per editar-lo, utilizeu el VIM; Per exemple el de la versió 7.4</p><p><code>sudo vim /etc/php/7.4/cli/php.ini</code></p><p>Per a canviar entre versions de PHP&nbsp;<br><code>sudo update-alternatives --config php</code></p><p>També podem canviar de versió de PHP de la següent manera. Primer desactives la versió de PHP en funcionamient i després actives l'altre.&nbsp;<br><code>sudo a2dismod php7.1</code>&nbsp;<br><code>sudo a2enmod php8.1</code>&nbsp;<br><code>sudo service apache2 restart</code></p><p>Paer a que Drupal funcioni amb URLs netes, cal activar el mod rewrite&nbsp;<br><code>sudo a2enmod rewrite</code>&nbsp;<br><code>sudo service apache2 restart</code></p><p>A partir d'aquí iniciarem linstal·lación de Drupal en el directori /var/www/html utilizant <em>Composer</em>. A continuació les comandes per a instal·lar el composer:</p><p class="prefixed command language-bash"><code><span class="token builtin class-name">cd</span> ~</code>&nbsp;<br><code><span class="token function">curl</span> -sS https://getcomposer.org/installer -o /tmp/composer-setup.php</code>&nbsp;<br><code>sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer</code></p><p>Un cop instal·lat el Composer podem començar amb el desplegament del <em>Drupal 9</em> en el nostre servidor:</p><p><code>cd /var/www/html</code>&nbsp;<br><code>composer create-project drupal/recommended-project /var/www/html</code></p><p>Instal·lem la llibreria de scripts Drush.Molt útilen per a dur a terme tasques de desenvolupament i manteniment del Drupal&nbsp;<br><code>composer require drush/drush</code></p><p>Per a iniciar la configuració del Drupal&nbsp;<br><code>drush site:install</code></p><p>o també pots obrir el navegador web i iniciar localhost/install.php</p><p>Per instal·lar mòduls extra en el Drupal i activar-los&nbsp;<br><code>composer require drupal/module_name</code>&nbsp;<br><code>drush en module_name</code></p></div>
+      
+  </div>
+
+<div  class="col-md-12 col-lg-4">
+      
+            <div class="img-responsive field field--name-field-image field--type-image field--label-hidden field__item">  <img property="schema:image" src="../../sites/default/files/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg" alt="servidor Apache web a Ubuntu 22" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+      <div class="col-md-12 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="../programari-lliure.html" hreflang="ca">Programari lliure</a></div>
+          </div>
+  
+  <div class="col-md-12 clearfix text-formatted field field--name-field-licencia field--type-text-long field--label-above">
+    <div class="field__label">Llicència d&#039;aquest artícle</div>
+              <div class="field__item"><p class="text-align-center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">Reconeixement-CompartirIgual 4.0 Internacional&nbsp;</a>&nbsp;&nbsp;<br><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">(CC BY-SA 4.0)</a><br><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank"><img src="../../sites/default/files/creative-commons-by-sa.svg"></a></p></div>
+          </div>
+
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockblog-block-1" id="block-views-block-blog-block-1">
+  
+      <h2>Blog</h2>
+    
+      <div><div class="view view-blog view-id-blog view-display-id-block_1 js-view-dom-id-9449ff6d2c0ec073f1e41bdda484c05e04690f1ff6e9b106f5609752c406e5e8">
+  
+    
+      
+      <div class="view-content">
+      <div id="views-bootstrap-blog-block-1"  class="grid views-view-grid">
+  <div class="row">
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="bitcoin-la-moneda-electronica.html">  <a href="bitcoin-la-moneda-electronica.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2022-10/bitcoint.jpg@itok=AyF7RRy2" width="480" height="270" alt="Bitcoin. La moneda electrònica" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="bitcoin-la-moneda-electronica.html"><a href="bitcoin-la-moneda-electronica.html" hreflang="ca">Bitcoin. La moneda electrònica</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Bitcoin es una moneda electrònica descentralitzada concebuda l'any 2009 per Satoshi Nakamoto. Es una de las primeres implementacions del concepte anomenat “criptomoneda”, descrit per primera vegada l'any 1998 per Wei Dai en la llista de correus electrònics Cypherpunk.</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="actualitzar-drupal-11.html">  <a href="actualitzar-drupal-11.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2024-09/drupal&#32;11.jpg@itok=Wy1dOFr0" width="480" height="357" alt="Drupal 11" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="actualitzar-drupal-11.html"><a href="actualitzar-drupal-11.html" hreflang="ca">Preparant la transició cap a Drupal 11</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Eines per actualitzar a Drupal 11</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="gestors-continguts-cms-flat-file.html">  <a href="gestors-continguts-cms-flat-file.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2022-10/cms-flat-file.jpg@itok=fH0qwo3s" width="480" height="245" alt="Gestors de continguts Flat File " loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="gestors-continguts-cms-flat-file.html"><a href="gestors-continguts-cms-flat-file.html" hreflang="ca">Gestors de continguts Flat File </a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Es tracta de gestors de continguts (CMS) amb la base de dades emmagatzemada en arxius de text.</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="daw-estacio-treball-audio-digital.html">  <a href="daw-estacio-treball-audio-digital.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2023-02/ilustracio&#32;DAW.jpg@itok=gv_pmYMr" width="480" height="270" alt="Estació de treball d’àudio digital" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="daw-estacio-treball-audio-digital.html"><a href="daw-estacio-treball-audio-digital.html" hreflang="ca">Estació de treball d’àudio digital feta amb programari lliure</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Sintetitzadors, seqüenciadors, caixes de ritmes i llibreries d'instruments i samplers de codi lliure.</div></div>
+      </div>
+      </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+        </div>
+              </div>
+    </div>
+
+
+  </div>
+
+</main>
+
+<footer class="mt-auto     ">
+  <div class="container-fluid m-0 p-0">
+      <div class="region region-footer">
+    <div id="block-footer" class="block block-block-content block-block-content4a730c55-e8b3-44f3-91b1-11a407ff1911">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+
+<div class="col-sm-12 col-md-3">
+<p><a href="../../index.html"><img alt="" src="../../sites/default/files/logo-hayqueverlo.svg" class="img-responsive" /></a></p>
+</div>
+
+<div class="col-sm-12 col-md-3">
+<ul class="list-items">
+  <li style="margin-left:0px;"><a href="../index.html">INICI</a></li>
+  <li style="margin-left:0px;"><a href="../projectes-realitzats.html">PROJECTES REALITZATS</a></li>
+  <li style="margin-left:0px;"><a href="../blog.html">BLOG</a></li>
+  <li style="margin-left:0px;"><a href="../contacta.html">CONTACTA AMB NOSALTRES</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-12 col-md-3">
+<ul class="list-items">
+  <li style="margin-left:0px;">Tel +34 686 723 423</li>
+  <li style="margin-left:0px;"><a href="mailto:info@hayqueverlo.com">info@hayqueverlo.com</a></li>
+  <li style="margin-left:0px;"><a href="../../politica-privacidad.html">Política de privadesa</a></li>
+</ul>
+</div>
+
+<div class="col-sm-12 col-md-3">
+<h3>Segeuix-nos a les xarxes socials:</h3>
+
+<a href="https://mastodon.social/@hayqueverlo" target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-mastodon.svg'  class='icon-social' style='border:0; margin-right:10px;width:50px;' /></a>
+
+<a href='https://www.facebook.com/designhayqueverlo' target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-facebook.svg' class='icon-social' style='border:0;margin-right: 10px;width:50px;' /></a> 
+
+<a href='https://www.instagram.com/hayqueverlo_design' target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-instagram.svg' class='icon-social' style='width:50px;'/></a>
+
+</div>
+
+</div>
+
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ca\/","currentPath":"node\/36","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ca"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EUtilitzem cookies en aquest lloc per millorar la vostra experi\u00e8ncia d\u0027usuari\u003C\/h2\u003E\u003Cp\u003EEn fer clic al bot\u00f3 Acceptar, accepteu que ho fem.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e9s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003EAccepto\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003ENo, gr\u00e0cies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e9s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003EAccepto\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003ENo, gr\u00e0cies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/politica-privacidad","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"ca","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EUtilitzem cookies en aquest lloc per millorar la vostra experi\u00e8ncia d\u0027usuari\u003C\/h2\u003E\u003Cp\u003EHeu donat el vostre consentiment perqu\u00e8 establim cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"col-md-12 col-lg-6","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"623ebb8cc17cec24897cc9029d7c5bccc13e6aeb68eac73555eb4b320ace990d"}}</script>
+<script src="../../sites/default/files/js/js_l6Veb5WvrApTalvwYP2FviZv1XfLz0NI9purz8fc9IY.js"></script>
+<script src="../../modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js@v=9.4.8" defer></script>
+
+
+    <script>
+        var navElementIni = document.querySelector(".navbar");
+		    navElementIni.classList.add("navbar-default");
+    </script>
+    
+  </body>
+</html>

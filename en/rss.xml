@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/en">
+  <channel>
+    <title>Hayqueverlo.com - Desarrollo de Webs y realización de contenidos</title>
+    <link>https://www.hayqueverlo.com/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Desarrollo de Webs y realización de contenidos</title>
+  <link>https://www.hayqueverlo.com/es/node/1</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Website development and content creation&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-05T17:53:21+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:53&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt; php global $base_url; ?&gt;
+
+&lt;div class="container"&gt;
+&lt;p&gt; &lt;/p&gt;
+    &lt;div class="row justify-content-md-center"&gt;
+        &lt;div class="col-sm-12 col-md-6 col-lg-3"&gt;
+            &lt;h2&gt;
+                Websites
+            &lt;/h2&gt;
+            &lt;p&gt;
+                We make websites adapted to each client and project. We implement the Drupal content manager (CRM, ERP and online stores). We take care of everything... from graphic design to web development and hosting. With tools that improve the online management of your business or organization.
+            &lt;/p&gt;
+            &lt;p class="text-align-center"&gt;
+                &lt;img style="width:75%;" src="https://www.hayqueverlo.com/sites/default/files/hayqueverlo-webs.svg" /&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-12 col-md-6 col-lg-3"&gt;
+            &lt;h2&gt;
+                Multiplatform
+            &lt;/h2&gt;
+            &lt;p&gt;
+                Adaptation of content to mobile devices (Responsive Web Design). We develop publishing systems to generate content adapted to all types of screens.
+            &lt;/p&gt;
+            &lt;p class="text-align-center"&gt;
+                &lt;img style="width:75%;" src="https://www.hayqueverlo.com/sites/default/files/hayqueverlo-multiplataforma.svg" /&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-12 col-md-6 col-lg-3"&gt;
+            &lt;h2&gt;
+                Advertising, Marketing and Social Media Strategy
+            &lt;/h2&gt;
+            &lt;p&gt;
+                Landing pages. Automation of tasks for content management on websites and social networks.
+                &lt;br /&gt;
+                Development of multichannel campaigns.
+                &lt;br /&gt;
+                Results monitoring.
+            &lt;/p&gt;
+            &lt;p class="text-align-center"&gt;
+                &lt;img style="width:75%;" src="https://www.hayqueverlo.com/sites/default/files/hayqueverlo-redes_sociales.svg" /&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-12 col-md-6 col-lg-3"&gt;
+            &lt;h2&gt;
+                Multimedia Design
+            &lt;/h2&gt;
+            &lt;p&gt;
+                Improve the image of your website and increase the quality of the content.
+                &lt;br /&gt;
+                Corporate logos and brands.
+                &lt;br /&gt;
+                Video making.
+                &lt;br /&gt;
+                Layout of online content.
+            &lt;/p&gt;
+            &lt;p class="text-align-center"&gt;
+                &lt;img style="width:75%;" src="https://www.hayqueverlo.com/sites/default/files/hayqueverlo-multimedia-v2.svg" /&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="row justify-content-md-center"&gt;
+        &lt;div class="col-sm-12 col-md-6 col-lg-6"&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+            &lt;h2 class="text-align-center"&gt;
+                We Love Free Software
+            &lt;/h2&gt;
+            &lt;p class="text-align-center"&gt;
+                We promote the use of free software and standard web formats.
+            &lt;/p&gt;
+            &lt;p class="text-align-center"&gt;
+                &lt;img style="width:35%;" src="https://www.hayqueverlo.com/sites/default/files/hayqueverlo-free-software.svg" /&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Tue, 25 Oct 2022 13:56:30 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">1 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Adapta CRM ERP</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/agencia-comunicacion-ttpr-erp-crm</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Adapta CRM ERP&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:32&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-bootstrap-carrousel view-id-bootstrap_carrousel view-display-id-block_1 js-view-dom-id-bff4bdf7b5834810631cb5a033ce329127014502d14997bff48fbe6cc9f4ce6c"&gt;
+  
+    
+      
+      &lt;div class="view-content"&gt;
+      
+&lt;div id="views-bootstrap-bootstrap-carrousel-block-1" class="carousel slide" data-interval="5000" data-ride="carousel" data-pause="hover"&gt;
+      &lt;ol class="carousel-indicators"&gt;&lt;li class="active" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="0"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="1"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="2"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="3"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="4"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="5"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="6"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="7"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="8"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1" data-slide-to="9"&gt;&lt;/li&gt;
+        &lt;/ol&gt;&lt;div class="carousel-inner"&gt;
+                    &lt;div class="carousel-item active"&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-0.jpg?itok=JksgFuv0" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/crm-erp-public-relations-management" hreflang="en"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-1.jpg?itok=gie9JoT-" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/crm-erp-public-relations-management" hreflang="en"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-2.jpg?itok=MfFIYjwM" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/crm-erp-public-relations-management" hreflang="en"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-3.jpg?itok=lS4Rb_Av" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/crm-erp-public-relations-management" hreflang="en"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-5.jpg?itok=xgx7cAoc" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/crm-erp-public-relations-management" hreflang="en"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-0.jpg?itok=JksgFuv0" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/agencia-comunicacio-ttpr-erp-crm" hreflang="ca"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-1.jpg?itok=gie9JoT-" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/agencia-comunicacio-ttpr-erp-crm" hreflang="ca"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-2.jpg?itok=MfFIYjwM" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/agencia-comunicacio-ttpr-erp-crm" hreflang="ca"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-3.jpg?itok=lS4Rb_Av" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/agencia-comunicacio-ttpr-erp-crm" hreflang="ca"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/crm-erp-5.jpg?itok=xgx7cAoc" width="1090" height="734" alt="TTPR CRM ERP" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/agencia-comunicacio-ttpr-erp-crm" hreflang="ca"&gt;Adapta CRM ERP&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;a class="carousel-control-prev" href="#views-bootstrap-bootstrap-carrousel-block-1" role="button" data-slide="prev"&gt;
+      &lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class="carousel-control-next" href="#views-bootstrap-bootstrap-carrousel-block-1" role="button" data-slide="next"&gt;
+      &lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  
+          &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Adapta CRM ERP&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;CRM ERP&lt;/strong&gt;, to manage relationships with customers and suppliers, controls stock of products, sales, transfers, returns, refunds and gifts, and relates it to appearances in the press and social networks of the influencers.&lt;/p&gt;&lt;p&gt;It works over the internet, with multiple users and can be used from a computer, tablet and mobile.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ttarrago.com"&gt;ttarrago.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:25:33 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">12 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Arlex Design</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/arlex-design</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Arlex Design&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:24&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-bootstrap-carrousel view-id-bootstrap_carrousel view-display-id-block_1 js-view-dom-id-deb4b127d0a35f41eac91cdcd693f37302c4ae8db6f13d780f08feab686d3087"&gt;
+  
+    
+      
+      &lt;div class="view-content"&gt;
+      
+&lt;div id="views-bootstrap-bootstrap-carrousel-block-1--2" class="carousel slide" data-interval="5000" data-ride="carousel" data-pause="hover"&gt;
+      &lt;ol class="carousel-indicators"&gt;&lt;li class="active" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="0"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="1"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="2"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="3"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="4"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="5"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="6"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="7"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="8"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--2" data-slide-to="9"&gt;&lt;/li&gt;
+        &lt;/ol&gt;&lt;div class="carousel-inner"&gt;
+                    &lt;div class="carousel-item active"&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-1.jpg?itok=F3Cia3q1" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/arlex-design-corporate-web" hreflang="en"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-2.jpg?itok=NXe6-cIL" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/arlex-design-corporate-web" hreflang="en"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-3.jpg?itok=JcY64sFu" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/arlex-design-corporate-web" hreflang="en"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-4.jpg?itok=RYNu78Wd" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/arlex-design-corporate-web" hreflang="en"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-4.jpg?itok=RYNu78Wd" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/arlex-design" hreflang="ca"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-1.jpg?itok=F3Cia3q1" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/arlex-design" hreflang="ca"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-2.jpg?itok=NXe6-cIL" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/arlex-design" hreflang="ca"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-3.jpg?itok=JcY64sFu" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/arlex-design" hreflang="ca"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-1.jpg?itok=F3Cia3q1" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/arlex-design" hreflang="es"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/hayqueverlo-arlex-2.jpg?itok=NXe6-cIL" width="1090" height="613" alt="Arlex Design" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/arlex-design" hreflang="es"&gt;Arlex Design&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;a class="carousel-control-prev" href="#views-bootstrap-bootstrap-carrousel-block-1--2" role="button" data-slide="prev"&gt;
+      &lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class="carousel-control-next" href="#views-bootstrap-bootstrap-carrousel-block-1--2" role="button" data-slide="next"&gt;
+      &lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  
+          &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Arlex Design&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Corporate website with content management tools and forms. Design adaptable to all types of screens.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arlex.es"&gt;Arlex.es&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:22:28 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">11 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Auditoria de la Innovación</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/auditoria-innovacion</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Innovation Audit&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:20&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-bootstrap-carrousel view-id-bootstrap_carrousel view-display-id-block_1 js-view-dom-id-3b8ba2005debb08fb0d6d66990ef6ed4897fd47bd3efad8f751d8bec59e2dede"&gt;
+  
+    
+      
+      &lt;div class="view-content"&gt;
+      
+&lt;div id="views-bootstrap-bootstrap-carrousel-block-1--3" class="carousel slide" data-interval="5000" data-ride="carousel" data-pause="hover"&gt;
+      &lt;ol class="carousel-indicators"&gt;&lt;li class="active" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="0"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="1"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="2"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="3"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="4"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="5"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="6"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="7"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="8"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--3" data-slide-to="9"&gt;&lt;/li&gt;
+        &lt;/ol&gt;&lt;div class="carousel-inner"&gt;
+                    &lt;div class="carousel-item active"&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-1.jpg?itok=PojlFpBH" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/innovation-audit" hreflang="en"&gt;Innovation Audit&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria_de_la_innovacion.jpg?itok=jZ1LOe9I" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/innovation-audit" hreflang="en"&gt;Innovation Audit&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-2.jpg?itok=9oMLOiAB" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/innovation-audit" hreflang="en"&gt;Innovation Audit&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-3.jpg?itok=DcGdt1q4" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/innovation-audit" hreflang="en"&gt;Innovation Audit&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-1.jpg?itok=PojlFpBH" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/auditoria-innovacio" hreflang="ca"&gt;Auditoria de la Innovació&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria_de_la_innovacion.jpg?itok=jZ1LOe9I" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/auditoria-innovacio" hreflang="ca"&gt;Auditoria de la Innovació&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-2.jpg?itok=9oMLOiAB" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/auditoria-innovacio" hreflang="ca"&gt;Auditoria de la Innovació&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-3.jpg?itok=DcGdt1q4" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/auditoria-innovacio" hreflang="ca"&gt;Auditoria de la Innovació&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria-innovacion-screenshoot-1.jpg?itok=PojlFpBH" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/auditoria-innovacion" hreflang="es"&gt;Auditoria de la Innovación&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/auditoria_de_la_innovacion.jpg?itok=jZ1LOe9I" width="1090" height="613" alt="Auditoria de la Innovación" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/auditoria-innovacion" hreflang="es"&gt;Auditoria de la Innovación&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;a class="carousel-control-prev" href="#views-bootstrap-bootstrap-carrousel-block-1--3" role="button" data-slide="prev"&gt;
+      &lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class="carousel-control-next" href="#views-bootstrap-bootstrap-carrousel-block-1--3" role="button" data-slide="next"&gt;
+      &lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  
+          &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Innovation Audit&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Presentation for "El libro rojo de la innovación". With a survey to evaluate/reflect on the innovation.&lt;/p&gt;&lt;p&gt;Integration with the Drupal CMS. Generation of dynamic SVG graphics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://auditoria-innovacion.marcelplanellas.com" target="_blank"&gt;auditoria-innovacion.marcelplanellas.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/drupal" hreflang="es"&gt;Drupal&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/ca/taxonomy/term/5" hreflang="ca"&gt;Disseny Web&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:19:43 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">10 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Marioneta Poeta</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/marioneta-poeta</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marioneta Poeta&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:11&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-carrousel field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-bootstrap-carrousel view-id-bootstrap_carrousel view-display-id-block_1 js-view-dom-id-965217336c13dbb8c013ec20574b0b15a20651e948962bebf4b1aa15daf3f3ec"&gt;
+  
+    
+      
+      &lt;div class="view-content"&gt;
+      
+&lt;div id="views-bootstrap-bootstrap-carrousel-block-1--4" class="carousel slide" data-interval="5000" data-ride="carousel" data-pause="hover"&gt;
+      &lt;ol class="carousel-indicators"&gt;&lt;li class="active" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="0"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="1"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="2"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="3"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="4"&gt;&lt;/li&gt;
+                          &lt;li class="" data-target="#views-bootstrap-bootstrap-carrousel-block-1--4" data-slide-to="5"&gt;&lt;/li&gt;
+        &lt;/ol&gt;&lt;div class="carousel-inner"&gt;
+                    &lt;div class="carousel-item active"&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-2.jpg?itok=37V2WcA0" width="1090" height="629" alt="Marioneta Poeta" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/landing-page-marioneta-poeta" hreflang="en"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-1.jpg?itok=iQnxUsbg" width="1090" height="702" alt="Marioneta Poeta" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/landing-page-marioneta-poeta" hreflang="en"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-2.jpg?itok=37V2WcA0" width="1090" height="629" alt="Marioneta Poeta" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/marioneta-poeta" hreflang="ca"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-1.jpg?itok=iQnxUsbg" width="1090" height="702" alt="Marioneta Poeta" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/marioneta-poeta" hreflang="ca"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-2.jpg?itok=37V2WcA0" width="1090" height="629" alt="" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/marioneta-poeta" hreflang="es"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+                    &lt;div class="carousel-item "&gt;
+          &lt;img src="https://www.hayqueverlo.com/sites/default/files/styles/wide/public/proyectos/2022-10/marioneta-poeta-1.jpg?itok=iQnxUsbg" width="1090" height="702" alt="" loading="lazy" typeof="foaf:Image" class="image-style-wide" /&gt;&lt;div class="carousel-caption d-none d-md-block"&gt;
+                                        &lt;h3&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/marioneta-poeta" hreflang="es"&gt;Marioneta Poeta&lt;/a&gt;&lt;/h3&gt;
+                                                &lt;/div&gt;
+                            &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;a class="carousel-control-prev" href="#views-bootstrap-bootstrap-carrousel-block-1--4" role="button" data-slide="prev"&gt;
+      &lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class="carousel-control-next" href="#views-bootstrap-bootstrap-carrousel-block-1--4" role="button" data-slide="next"&gt;
+      &lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;
+      &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+    &lt;/div&gt;
+  
+          &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+            &lt;div class="field field--name-extra-field-pseudo-title-formatted field--type-extra-field field--label-hidden field__item"&gt;&lt;h2 id="page-title" class="title"&gt;Marioneta Poeta&lt;/h2&gt;
+&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Web type landing page. &lt;/p&gt;&lt;p&gt;Adapted to mobile phones and all types of screens, using the Bootstrap 5 frame work.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.marionetapoeta.com" data-cke-saved-href="https://www.marionetapoeta.com" target="_blank"&gt;www.marionetapoeta.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Making videos and audio to post on social media:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://twitter.com/marionetapoeta" data-cke-saved-href="https://twitter.com/marionetapoeta" target="_blank"&gt;twitter&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://facebook.com/marionetapoeta" data-cke-saved-href="https://facebook.com/marionetapoeta" target="_blank"&gt;facebook&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCSlZYiZjaFGZstiglrYGC3A" data-cke-saved-href="https://www.youtube.com/channel/UCSlZYiZjaFGZstiglrYGC3A" target="_blank"&gt;youtube&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://instagram.com/marionetapoeta" data-cke-saved-href="https://instagram.com/marionetapoeta" target="_blank"&gt;instagram&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://tiktok.com/@marionetapoeta" data-cke-saved-href="https://tiktok.com/@marionetapoeta" target="_blank"&gt;tik-tok&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://mastodon.social/web/@marionetapoeta" data-cke-saved-href="https://mastodon.social/web/@marionetapoeta" target="_blank"&gt;mastodon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+      &lt;div class="h4 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://www.hayqueverlo.com/es/taxonomy/term/4" hreflang="es"&gt;Landing Pages&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:16:24 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">9 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/es">
+  <channel>
+    <title>eCommerce</title>
+    <link>https://www.hayqueverlo.com/es</link>
+    <description/>
+    <language>es</language>
+    
+    <item>
+  <title>Web para la agencia de viages Horizonte Paralelo</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/agencia-viages-horizonte-paralelo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web para la agencia de viages Horizonte Paralelo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:02&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/agencia-viages-horizonte-paralelo" rel="tag" title="Web para la agencia de viages Horizonte Paralelo" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Web para la agencia de viages Horizonte Paralelo&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web de una agencia de viajes alternativos y de turismo responsable.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:02:58 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">22 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

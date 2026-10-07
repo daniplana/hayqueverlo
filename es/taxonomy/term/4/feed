@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/es">
+  <channel>
+    <title>Landing Pages</title>
+    <link>https://www.hayqueverlo.com/es</link>
+    <description/>
+    <language>es</language>
+    
+    <item>
+  <title>Presentación Mobile App SuitCRM.com</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/landing-page-suitcrm</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Presentación Mobile App SuitCRM.com&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:26&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/landing-page-suitcrm" rel="tag" title="Presentación Mobile App SuitCRM.com" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Presentación Mobile App SuitCRM.com&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Mini site presentación de una app para dispositivos móviles.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:26:06 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">25 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Mini Site MSF "Contra el olvido"</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/mini-site-contra-el-olvido</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mini Site MSF "Contra el olvido"&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:52&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/mini-site-contra-el-olvido" rel="tag" title="Mini Site MSF "Contra el olvido"" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Mini Site MSF "Contra el olvido"&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Mini site para la ONG Médicos Sin Fronteras España.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:52:09 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">33 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Mini Site MSF "Afrontar el trauma"</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/mini-site-msf</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mini Site MSF "Afrontar el trauma"&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:10&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/mini-site-msf" rel="tag" title="Mini Site MSF "Afrontar el trauma"" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Mini Site MSF "Afrontar el trauma"&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Mini site para la ONG Médicos Sin Fronteras España.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:10:43 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">24 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Landing page para Bicibús.cat</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/landing-pages-bicibus</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Landing page para Bicibús.cat&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/09/2022 - 19:04&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/landing-pages-bicibus" rel="tag" title="Landing page para Bicibús.cat" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Landing page para Bicibús.cat&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Landing page para Bicibús.cat&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 09 Nov 2022 18:04:39 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">46 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para la consultora eB4IT</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/consultora%20-eb4it</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web para la consultora eB4IT&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 10/29/2022 - 22:04&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/consultora%20-eb4it" rel="tag" title="Web para la consultora eB4IT" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Web para la consultora eB4IT&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web para la empresa de consultoría tecnológica eB4IT.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 20:04:32 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">8 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Presentación de empresa ISM</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/presentacion-empresa-ism</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Presentación de empresa ISM&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:57&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/presentacion-empresa-ism" rel="tag" title="Presentación de empresa ISM" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Presentación de empresa ISM&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Mini site para una empresa de ingeniería de soldadura y manipulación.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:57:21 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">35 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Marioneta Poeta</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/marioneta-poeta</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marioneta Poeta&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 10/29/2022 - 23:16&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/marioneta-poeta" rel="tag" title="Marioneta Poeta" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Marioneta Poeta&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Landing page para Marioneta Poeta.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:16:24 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">9 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Landing Page para fabricante de cafeteras</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/slow-expresso</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Landing Page para fabricante de cafeteras&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/es/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 16:56&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/es/proyectos-realizados/slow-expresso" rel="tag" title="Landing Page para fabricante de cafeteras" hreflang="es"&gt;Read more&lt;span class="visually-hidden"&gt; about Landing Page para fabricante de cafeteras&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Landing Page para el gruppo Ryoma.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 15:56:05 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">21 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

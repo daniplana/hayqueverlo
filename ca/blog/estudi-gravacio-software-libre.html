@@ -1,0 +1,380 @@
+
+<!DOCTYPE html>
+<html lang="ca" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="h-100">
+  <head>
+    <link rel="apple-touch-icon" sizes="57x57" href="../../sites/default/files/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../../sites/default/files/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../../sites/default/files/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../../sites/default/files/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../../sites/default/files/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../../sites/default/files/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../../sites/default/files/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../../sites/default/files/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../sites/default/files/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../../sites/default/files/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../sites/default/files/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../../sites/default/files/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../sites/default/files/favicon/favicon-16x16.png">
+    <link rel="manifest" href="../../sites/default/files/favicon/manifest.json">
+    <link href="https://mastodon.social/@daniplana" rel="me">
+    <link href="https://mastodon.social/@hayqueverlo" rel="me">
+    <meta name="msapplication-TileColor" content="#9e0054">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#9e0054">
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="../../node/37.html" />
+<meta http-equiv="content-language" content="ca" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="../../node/37.html" />
+<meta name="news_keywords" content="Programari lliure,," />
+<link rel="image_src" href="../../sites/default/files/hayqueverlo-logo-metatag.jpg" />
+<meta name="description" content="Utilitzant una taula de mescles amb sortida USB i entrades per a guitarra i micro, podem gravar per pistes els nostres propis temes amb un PC." />
+<meta name="abstract" content="Utilitzant una taula de mescles amb sortida USB i entrades per a guitarra i micro, podem gravar per pistes els nostres propis temes amb un PC." />
+<meta name="keywords" content="software libre, open source, blog, creative commons,Programari lliure,," />
+<meta property="og:site_name" content="Hayqueverlo.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.hayqueverlo.com/ca/blog/estudi-gravacio-software-libre" />
+<meta property="og:title" content="Munta&#039;t un estudi d&#039;enregistrament" />
+<meta property="og:description" content="Utilitzant una taula de mescles amb sortida USB i entrades per a guitarra i micro, podem gravar per pistes els nostres propis temes amb un PC." />
+<meta property="og:image" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-home-studio-ca.jpg?itok=W8VG2pDS" />
+<meta property="og:image:url" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-home-studio-ca.jpg?itok=W8VG2pDS" />
+<meta property="og:image:secure_url" content="https://www.hayqueverlo.com/sites/default/files/styles/max_1300x1300/public/blog-images/2022-11/hayqueverlo-blog-home-studio-ca.jpg?itok=W8VG2pDS" />
+<meta property="og:image:type" content="JPG/JPEG" />
+<meta property="og:image:width" content="1300" />
+<meta property="og:image:height" content="823" />
+<meta property="og:image:alt" content="Hayqueverlo.com" />
+<meta property="article:tag" content="Programari lliure" />
+<meta property="article:tag" content="" />
+<meta property="article:tag" content="" />
+<meta property="article:published_time" content="Sun, 11/06/2022 - 01:53" />
+<meta property="article:modified_time" content="Wed, 11/16/2022 - 21:34" />
+<meta property="book:release_date" content="Sun, 11/06/2022 - 01:53" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #FFFFFF} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #000000;} .eu-cookie-withdraw-tab { border-color: #000000;}</style>
+<link rel="alternate" hreflang="ca" href="estudi-gravacio-software-libre.html" />
+<link rel="alternate" hreflang="es" href="../../es/blog/estudio-grabacion-software-libre.html" />
+
+    <title>Munta&#039;t un estudi d&#039;enregistrament / blog Hayqueverlo.com</title>
+    <link rel="stylesheet" media="all" href="../../sites/default/files/css/css_KYbcCzZ2HOprsk3mP9DuPReaoqMueIb7bf7plL0zOQM.css" />
+<link rel="stylesheet" media="all" href="../../sites/default/files/css/css_dO7-W8se8lbktT0nvLidCnPJVICeF7OAB6RqZd33U-8.css" />
+
+    
+  </head>
+
+  <body class="route-entitynodecanonical path-node page-node-type-article  text-dark   d-flex flex-column h-100 anonymous node-id-37 ca">
+        <a href="estudi-gravacio-software-libre.html#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+
+<header>
+  
+
+    <nav class="navbar navbar-expand-lg   ">
+
+          <div class="region region-nav-branding">
+    <div id="block-b4subtheme-site-branding" class="block block-system block-system-branding-block">
+  
+    
+  <div class="navbar-brand d-flex">
+
+    <a href="../../ca.html" title="Inici" rel="home" class="site-logo d-block">
+    <img src="../../themes/custom/b4subtheme/logo.svg" alt="Inici" />
+  </a>
+  
+  <div>
+        <a href="../../ca.html" title="Inici" rel="home" class="site-title">
+      Hayqueverlo.com
+    </a>
+    
+      </div>
+</div>
+</div>
+
+  </div>
+
+
+      <div class="col-3 col-md-auto p-0 text-right">
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse col-12 col-md-auto p-0 justify-content-end" id="navbarSupportedContent">
+          <div class="region region-nav-main">
+    <nav role="navigation" aria-labelledby="block-b4subtheme-main-menu-menu" id="block-b4subtheme-main-menu" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-b4subtheme-main-menu-menu">Main navigation</h5>
+  
+
+        
+            <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+          <a href="../../ca.html" class="nav-item nav-link" data-drupal-link-system-path="&lt;front&gt;">Inici</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../projectes-realitzats.html" class="nav-item nav-link" data-drupal-link-system-path="proyectos-realizados">Projectes realitzats</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../blog.html" class="nav-item nav-link" data-drupal-link-system-path="blog">Blog</a>
+      </li>
+
+                    <li class="nav-item">
+          <a href="../contacta.html" class="nav-item nav-link" data-drupal-link-system-path="node/39">Contacta</a>
+      </li>
+
+        </ul>
+  
+
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/37" class="en"><a href="../../en/node/37.html" class="language-link" hreflang="en" data-drupal-link-system-path="node/37">English</a></li><li hreflang="ca" data-drupal-link-system-path="node/37" class="ca is-active"><a href="estudi-gravacio-software-libre.html" class="language-link is-active" hreflang="ca" data-drupal-link-system-path="node/37">Català</a></li><li hreflang="es" data-drupal-link-system-path="node/37" class="es"><a href="../../es/blog/estudio-grabacion-software-libre.html" class="language-link" hreflang="es" data-drupal-link-system-path="node/37">Castellano</a></li></ul>
+  </div>
+
+  </div>
+
+        
+      </div>
+
+  </nav>
+  
+</header>
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+
+  <div class="container-fluid m-0 p-0">
+            <div class="region region-breadcrumb">
+    <div id="block-b4subtheme-page-title" class="col-12 block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="display-4 text-left page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Munta&#039;t un estudi d&#039;enregistrament</span>
+</h1>
+
+
+  </div>
+<div id="block-b4subtheme-breadcrumbs" class="col-12 block block-system block-system-breadcrumb-block">
+  
+    
+        <nav aria-label="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+                  <a href="../../ca.html">Inici</a>
+              </li>
+          <li class="breadcrumb-item">
+                  <a href="../blog.html">Blog</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+    
+    <div class="super-container">
+      <div class="row no-gutters">
+                <div class="order-1 order-lg-2 col-12">
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-b4subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="37" role="article" about="/ca/blog/estudi-gravacio-software-libre" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-full">
+
+  
+      <span property="schema:name" content="Munta&#039;t un estudi d&#039;enregistrament" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div  class="row justify-content-center">
+      
+<div  class="col-md-12 col-lg-6">
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Utilitzant una taula de mescles amb sortida USB i entrades per a guitarra i micro, podem gravar per pistes els nostres propis temes amb un PC. És convenient que la taula de mscles tingui sortida USB per connectar-la directament al PC.</p><p>Quan treballem sobre sistema operatiu <em>gnu-Linux</em>, podem utilitzar el servidor d'àudio <em>Jack </em>per interconnectar entrades i sortides tant dels programes com del maquinari que estem utilitzant. Així amb el <em>Jack Control</em> al costat del processador d'efectes <em>Guitarix</em>, podem afegir efectes a temps real mentre toquem amb la guitarra o el baix.</p><p>Amb els programes <em>Audacity o Ardour </em>podem gravar el senyal de la guitarra o el baix procedent del <em>Guitarix i a la vegada escoltar la caixa de ritmes Hydrogen Drum Machine. El programari Audacity ens permetrà crear tantes pistes com vulguem. També és possible enregistrar una pista alhora que escoltem les pistes gravades anteriorment o escollir quines volem escoltar.</em></p><p>Després de gravar totes les pistes (bateria, baix, guitarra, veu, etc...) podrem editar, afegir efectes i equalitzar-lo. Per a una edició similar a programes com Pro Tools existeix <a href="http://ardour.org/" target="_blank" title="Audio work station"><em>Ardour</em></a><em> </em>( gnu-Linux o Os Mac), que treballa amb teclats MIDI i és compatible amb una gran varietat de bancs de so i efectes, fins i tot altres sistemes operatius.</p><h2>Software</h2><p><em><strong>Jack Control</strong> (</em><a href="https://qjackctl.sourceforge.net/" target="_blank" title="Jack Control"><em>qjackctl.sourceforge.net</em></a><em>)</em></p><p>Gestor de connexions entre programari i maquinari. Amb aquesta eina podem gestionar les connexions entre els diferents programes. També gestionem les sortides i les entrades d'àudio del nostre ordinador. Funciona sobre gnu-Linux.</p><p><em><strong>Guitarix</strong> (</em><a href="https://guitarix.org" target="_blank" title="Guitarix - guitar effects"><em>guitarix.org</em></a><em>)</em></p><div class="col-md-6" style="float:right;"><em><img class="img-responsive" alt="estudio de grabación casero" src="../../sites/default/files/screenshot-guitarix.png" title="estudio de grabación casero"></em></div><p>processador multi efectes per a guitarra i baix. Inclou els efectes clàssics com el compressor, equalitzador, flanger, chorus, delay, echo, reverb, phaser, wah-wah i distorsió entre d'altres. Funciona sobre gnu-Linux.</p><p class="clearfix"><em>&nbsp;</em></p><p><strong>Ardour</strong> (<a href="https://ardour.org/" target="_blank" title="Ardour"><em>ardour.org</em></a>)</p><div class="col-md-6" style="float:right;"><img class="img-responsive" alt="estudio de grabación casero" src="../../sites/default/files/blog-images/ardour-screenshot.png" title="Ardour - Estudio de grabación"></div><p>Enregistrament de so multipistes. Monitoritza els nivells d'enregistrament a temps real. Permet l'edició de temes amb tantes pistes com vulguem. Utilitza efectes LADSPA o VST. Funciona tant sobre gnu-Linux, OsMac i Microsoft Windows.</p><p class="clearfix">&nbsp;</p><p>&nbsp;</p><p><em><strong>Hydrogen Drum Machine</strong> (</em><a href="http://www.hydrogen-music.org" target="_blank" title="Drum Machine - Caja de ritmos"><em>http://www.hydrogen-music.org</em></a><em>)</em></p><div class="col-md-6" style="float:right;"><em><img class="img-responsive" alt="estudi d&apos;enregistrament casolà" src="../../sites/default/files/ilustra_2_homestudio_hayqueverlo.jpg" title="Hydrogen Drum Machine estudi d&apos;enregistrament casolà"></em></div><p>Caixa de ritmes amb diferents bancs de so i efectes LADSPA a temps real. Exporta les cançons o patrons a MP3, WAV i OGG. Funciona sobre gnu-Linux, però també està disponible per a Microsoft Windows.</p><h2>&nbsp;</h2><h2>Sistema operatiu</h2><p>Les distribucions <a href="http://www.ubuntu.com" target="_blank" title="Ubuntu.com">Ubuntu</a> i <a href="http: //debian.org" title="Debian - Universal operating system">Debian</a> inclouen aquests programes, que citem a l'article, als seus gestors d'instal·lació de programes. De manera que és molt fàcil instal·lar-los y actualitzar-los.&nbsp;</p><p>A part l'ús de Jack Control us permet interconnectar els programes d'àudio que estiguin en funcionament, a Microsft Windows o iOS Mac no existeix tot el programari lliure o gratuït equivalent. T'hauràs d'espavilar amb el tauler de control o el programari que vingui amb la teva targeta d'àudio.</p><p>Utilitzar gnu-Linux, també te l'avantatge de poder córrer sobre ordinadors poc potents, sense experimentar gaire latència ni excessiu consum de la capacitat de la nostra CPU, ja que els programes utilitzats tenen interfícies senzilles que no saturen la capacitat de rendiment del nostre PC.&nbsp;</p><h3>Exemples</h3><div class="container"><div class="row"><div class="col-sm-12 col-md-12 col-lg-6"><em><iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1517659411&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="450" frameborder="no"></iframe></em></div><div class="col-sm-12 col-md-12 col-lg-6"><h3>Material utilitzat en la gravació</h3><p>En tot aquest article no hem fet referència a cap marca de PC, tampoc de targetes d'àudio o taules de barreges, perquè no és la nostra intenció promocionar-ne unes en concret o dir quina és la millor. De tota manera et citem el material que hem utilitzat per testejar tot el programari esmentat anteriorment:</p><ul><li><strong>Guitarra elèctrica</strong>: Maison (2 pastilles amb doble bobina).</li><li><strong>Baix elèctric</strong>: Àsia (tipus Fender Standard Precision).</li><li><strong>Taula de mescles</strong>: Yamaha MG10XU</li><li><strong>PC</strong> AMD FX(tm)-4100 Quad-Core Processor × 4 con 16 Gbytes de RAM (64bit).</li><li><strong>Targeta gràfica</strong>: Nvidia con 256 Mbytes de RAM.</li><li><strong>Targeta d'audio</strong>: Soundblaster</li><li><strong>Sistema operatiu</strong>: gnu-Linux Ubuntu 22 LTS</li></ul></div></div></div></div>
+      
+  </div>
+
+<div  class="col-md-12 col-lg-4">
+      
+            <div class="img-responsive field field--name-field-image field--type-image field--label-hidden field__item">  <img property="schema:image" src="../../sites/default/files/styles/wide/public/blog-images/2022-11/hayqueverlo-blog-home-studio-ca.jpg@itok=CH2BlBxm" width="1090" height="690" alt="estudi d&#039;enregistrament" loading="lazy" typeof="foaf:Image" class="image-style-wide" />
+
+
+</div>
+      
+      <div class="col-md-12 field field--name-field-etiquetas field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="../programari-lliure.html" hreflang="ca">Programari lliure</a></div>
+          </div>
+  
+  <div class="col-md-12 clearfix text-formatted field field--name-field-licencia field--type-text-long field--label-above">
+    <div class="field__label">Llicència d&#039;aquest artícle</div>
+              <div class="field__item"><p class="text-align-center"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">Reconeixement-CompartirIgual 4.0 Internacional&nbsp;</a>&nbsp;&nbsp;<br><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">(CC BY-SA 4.0)</a><br><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank"><img src="../../sites/default/files/creative-commons-by-sa.svg"></a></p></div>
+          </div>
+
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockblog-block-1" id="block-views-block-blog-block-1">
+  
+      <h2>Blog</h2>
+    
+      <div><div class="view view-blog view-id-blog view-display-id-block_1 js-view-dom-id-c8980df967ece9d197d658ddadd872dbc16bee2a33fdc3a04ba0c8314050afc4">
+  
+    
+      
+      <div class="view-content">
+      <div id="views-bootstrap-blog-block-1"  class="grid views-view-grid">
+  <div class="row">
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="configurar-servidor-web-ubuntu-22-mariadb.html">  <a href="configurar-servidor-web-ubuntu-22-mariadb.html" hreflang="ca"><img src="../../sites/default/files/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg" alt="servidor Apache web a Ubuntu 22" loading="lazy" typeof="Image" />
+</a>
+</a></div></div><div><span><br><h3><a href="configurar-servidor-web-ubuntu-22-mariadb.html"><a href="configurar-servidor-web-ubuntu-22-mariadb.html" hreflang="ca">Instal·lació d&#039;un servidor web a Ubuntu 22.x</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Instal·lació d'un servidor web Apache2, amb base de dades MariaDB i diferents versions de PHP</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="actualitzar-drupal-11.html">  <a href="actualitzar-drupal-11.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2024-09/drupal&#32;11.jpg@itok=Wy1dOFr0" width="480" height="357" alt="Drupal 11" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="actualitzar-drupal-11.html"><a href="actualitzar-drupal-11.html" hreflang="ca">Preparant la transició cap a Drupal 11</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Eines per actualitzar a Drupal 11</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="../node/59.html">  <a href="../node/59.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2025-06/FAIR-linux-foundation_0.png@itok=weRWXHyq" width="480" height="320" alt="FAIR WordPress Package Manager" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="../node/59.html"><a href="../node/59.html" hreflang="ca">La Linux Foundation llença el gestor de paquets FAIR per al WordPress</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">Per descentralitzar la infraestructura de WordPress. Millorant la transparència en la gestió de temes i complements.</div></div>
+      </div>
+          <div  class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        <div><div class="img-responsive"><a href="la-neutralidad-de-la-red.html">  <a href="la-neutralidad-de-la-red.html" hreflang="ca"><img src="../../sites/default/files/styles/large/public/blog-images/2022-10/neutralidad-de-la-red.jpg@itok=AiJ2sqr-" width="480" height="263" alt="La neutralitat de la Xarxa" loading="lazy" typeof="Image" class="image-style-large" />
+
+</a>
+</a></div></div><div><span><br><h3><a href="la-neutralidad-de-la-red.html"><a href="la-neutralidad-de-la-red.html" hreflang="ca">La neutralitat de la Xarxa</a></a></h3></span></div><div class="views-field views-field-body"><div class="field-content">La neutralitat de la Xarxa és el principi pel qual els proveïdors de serveis d'Internet tracten tot el tràfic d'igual manera. </div></div>
+      </div>
+      </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+        </div>
+              </div>
+    </div>
+
+
+  </div>
+
+</main>
+
+<footer class="mt-auto     ">
+  <div class="container-fluid m-0 p-0">
+      <div class="region region-footer">
+    <div id="block-footer" class="block block-block-content block-block-content4a730c55-e8b3-44f3-91b1-11a407ff1911">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+
+<div class="col-sm-12 col-md-3">
+<p><a href="../../index.html"><img alt="" src="../../sites/default/files/logo-hayqueverlo.svg" class="img-responsive" /></a></p>
+</div>
+
+<div class="col-sm-12 col-md-3">
+<ul class="list-items">
+  <li style="margin-left:0px;"><a href="../index.html">INICI</a></li>
+  <li style="margin-left:0px;"><a href="../projectes-realitzats.html">PROJECTES REALITZATS</a></li>
+  <li style="margin-left:0px;"><a href="../blog.html">BLOG</a></li>
+  <li style="margin-left:0px;"><a href="../contacta.html">CONTACTA AMB NOSALTRES</a></li>
+</ul>
+</div>
+
+
+<div class="col-sm-12 col-md-3">
+<ul class="list-items">
+  <li style="margin-left:0px;">Tel +34 686 723 423</li>
+  <li style="margin-left:0px;"><a href="mailto:info@hayqueverlo.com">info@hayqueverlo.com</a></li>
+  <li style="margin-left:0px;"><a href="../../politica-privacidad.html">Política de privadesa</a></li>
+</ul>
+</div>
+
+<div class="col-sm-12 col-md-3">
+<h3>Segeuix-nos a les xarxes socials:</h3>
+
+<a href="https://mastodon.social/@hayqueverlo" target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-mastodon.svg'  class='icon-social' style='border:0; margin-right:10px;width:50px;' /></a>
+
+<a href='https://www.facebook.com/designhayqueverlo' target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-facebook.svg' class='icon-social' style='border:0;margin-right: 10px;width:50px;' /></a> 
+
+<a href='https://www.instagram.com/hayqueverlo_design' target='_blank' style='text-decoration:none;'>
+<img src='../../themes/custom/b4subtheme/images/icon-instagram.svg' class='icon-social' style='width:50px;'/></a>
+
+</div>
+
+</div>
+
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ca\/","currentPath":"node\/37","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ca"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EUtilitzem cookies en aquest lloc per millorar la vostra experi\u00e8ncia d\u0027usuari\u003C\/h2\u003E\u003Cp\u003EEn fer clic al bot\u00f3 Acceptar, accepteu que ho fem.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e9s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003EAccepto\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003ENo, gr\u00e0cies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e9s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003EAccepto\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003ENo, gr\u00e0cies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/politica-privacidad","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"ca","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EUtilitzem cookies en aquest lloc per millorar la vostra experi\u00e8ncia d\u0027usuari\u003C\/h2\u003E\u003Cp\u003EHeu donat el vostre consentiment perqu\u00e8 establim cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"col-md-12 col-lg-6","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"623ebb8cc17cec24897cc9029d7c5bccc13e6aeb68eac73555eb4b320ace990d"}}</script>
+<script src="../../sites/default/files/js/js_l6Veb5WvrApTalvwYP2FviZv1XfLz0NI9purz8fc9IY.js"></script>
+<script src="../../modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js@v=9.4.8" defer></script>
+
+
+    <script>
+        var navElementIni = document.querySelector(".navbar");
+		    navElementIni.classList.add("navbar-default");
+    </script>
+    
+  </body>
+</html>

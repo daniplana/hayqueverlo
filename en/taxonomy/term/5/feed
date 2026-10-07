@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/en">
+  <channel>
+    <title>Disseny Web</title>
+    <link>https://www.hayqueverlo.com/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Auditoria de la Innovación</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/auditoria-innovacion</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Innovation Audit&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/en/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sat, 11/05/2022 - 18:20&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/en/fulfilled-projects/innovation-audit" rel="tag" title="Innovation Audit" hreflang="en"&gt;Read more&lt;span class="visually-hidden"&gt; about Innovation Audit&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Presentation for "El libro rojo de la innovación". &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:19:43 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">10 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

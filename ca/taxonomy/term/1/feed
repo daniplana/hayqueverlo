@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/ca">
+  <channel>
+    <title>Programari lliure</title>
+    <link>https://www.hayqueverlo.com/ca</link>
+    <description/>
+    <language>ca</language>
+    
+    <item>
+  <title>La Linux Foundation llença el gestor de paquets FAIR per al WordPress</title>
+  <link>https://www.hayqueverlo.com/ca/node/59</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;La Linux Foundation llença el gestor de paquets FAIR per al WordPress&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2025-06-12T10:38:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/12/2025 - 12:38&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/node/59" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2025-06/FAIR-linux-foundation_0.png?itok=aAW0eDQ4" width="220" height="147" alt="FAIR WordPress Package Manager" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Per descentralitzar la infraestructura de WordPress. Millorant la transparència en la gestió de temes i complements.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/node/59" rel="tag" title="La Linux Foundation llença el gestor de paquets FAIR per al WordPress" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about La Linux Foundation llença el gestor de paquets FAIR per al WordPress&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2025 10:38:16 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">59 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Gestores de contenidos Flat File </title>
+  <link>https://www.hayqueverlo.com/es/blog/gestores-contenidos-cms-flat-file</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Gestors de continguts Flat File &lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-04-30T14:01:18+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 04/30/2024 - 16:01&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/gestors-continguts-cms-flat-file" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2022-10/cms-flat-file.jpg?itok=ccfVN5x3" width="220" height="112" alt="Gestors de continguts Flat File " loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Es tracta de gestors de continguts (CMS) amb la base de dades emmagatzemada en arxius de text.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/gestors-continguts-cms-flat-file" rel="tag" title="Gestors de continguts Flat File " hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Gestors de continguts Flat File &lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 May 2025 14:00:02 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">19 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Retransmitir vídeo en directo a través de Internet</title>
+  <link>https://www.hayqueverlo.com/es/blog/video-directo-obs-studio</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Retransmetre vídeo en directe a traves d’Internet&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-01-11T10:24:15+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 01/11/2024 - 11:24&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/video-directe-obs-studio" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2024-01/obs-studio-screen-shoot.jpg?itok=myY5uV-s" width="220" height="129" alt="OBS Studio" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Utilizant el programari OBS Studio&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/video-directe-obs-studio" rel="tag" title="Retransmetre vídeo en directe a traves d’Internet" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Retransmetre vídeo en directe a traves d’Internet&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 11 Jan 2024 10:11:50 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">54 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Estación de trabajo de audio digital hecha con software libre</title>
+  <link>https://www.hayqueverlo.com/es/blog/daw-estacions-trabajo-audio-digital</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Estació de treball d’àudio digital feta amb programari lliure&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2023-02-10T14:56:49+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 02/10/2023 - 15:56&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/daw-estacio-treball-audio-digital" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2023-02/ilustracio%20DAW.jpg?itok=Mkeu9FuE" width="220" height="124" alt="Estació de treball d’àudio digital" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Sintetitzadors, seqüenciadors, caixes de ritmes i llibreries d'instruments i samplers de codi lliure.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/daw-estacio-treball-audio-digital" rel="tag" title="Estació de treball d’àudio digital feta amb programari lliure" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Estació de treball d’àudio digital feta amb programari lliure&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Fri, 10 Feb 2023 14:49:40 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">49 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>El Fediverso</title>
+  <link>https://www.hayqueverlo.com/es/blog/fediverso-redes-federadas</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;El Fedivers&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-08T16:16:53+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 11/08/2022 - 17:16&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/fedivers-xarxes-federades" hreflang="ca"&gt;&lt;img width="" height="" property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/blog-images/2022-11/Fediverse_logo_proposal.svg" alt="Logo Fediverse - Fediverso" loading="lazy" typeof="foaf:Image" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Existeixen multitut de xarxes socials. Entre elles el Fedivers (Fediverse en anglès), composta per diferents aplicacions i servidors federats. Mastodon, FixelFed i PeerTube son algunes de les aplicacions.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/fedivers-xarxes-federades" rel="tag" title="El Fedivers" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about El Fedivers&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sun, 06 Nov 2022 19:34:10 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">42 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Móntate un estudio de grabación</title>
+  <link>https://www.hayqueverlo.com/es/blog/estudio-grabacion-software-libre</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Munta't un estudi d'enregistrament&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-06T00:53:41+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 11/06/2022 - 01:53&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/estudi-gravacio-software-libre" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2022-11/hayqueverlo-blog-home-studio-ca.jpg?itok=Ms9tv41Q" width="220" height="139" alt="estudi d'enregistrament" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Utilitzant una taula de mescles amb sortida USB i entrades per a guitarra i micro, podem gravar per pistes els nostres propis temes amb un PC.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/estudi-gravacio-software-libre" rel="tag" title="Munta't un estudi d'enregistrament" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Munta't un estudi d'enregistrament&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 03 Nov 2022 04:30:15 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">37 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Bitcoin. La moneda electrónica</title>
+  <link>https://www.hayqueverlo.com/es/blog/bitcoin-la-moneda-electronica</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Bitcoin. La moneda electrònica&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-06T00:20:10+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 11/06/2022 - 01:20&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/bitcoin-la-moneda-electronica" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2022-10/bitcoint.jpg?itok=60RirOSE" width="220" height="124" alt="Bitcoin. La moneda electrònica" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Bitcoin es una moneda electrònica descentralitzada concebuda l'any 2009 per Satoshi Nakamoto. Es una de las primeres implementacions del concepte anomenat “criptomoneda”, descrit per primera vegada l'any 1998 per Wei Dai en la llista de correus electrònics Cypherpunk.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/bitcoin-la-moneda-electronica" rel="tag" title="Bitcoin. La moneda electrònica" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Bitcoin. La moneda electrònica&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 15:03:05 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">20 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Software Libre</title>
+  <link>https://www.hayqueverlo.com/es/blog/software-libre</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Software Lliure&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-06T00:37:33+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 11/06/2022 - 01:37&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/software-libre" hreflang="ca"&gt;&lt;img width="" height="" property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/blog-images/2022-11/hayqueverlo-ilustra-free-software.svg" alt="Software Libre" loading="lazy" typeof="foaf:Image" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;El programari lliure són milers d'eines informàtiques que ens permeten treballar, informar-nos i comunicar-nos més i/o millor.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/software-libre" rel="tag" title="Software Lliure" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Software Lliure&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 03 Nov 2022 04:40:01 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">38 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Instalación de un servidor web en Ubuntu 22.x</title>
+  <link>https://www.hayqueverlo.com/es/blog/instalacion-servidor-web-ubuntu-22</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Instal·lació d'un servidor web a Ubuntu 22.x&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-11-01T15:32:56+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 11/01/2022 - 16:32&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/configurar-servidor-web-ubuntu-22-mariadb" hreflang="ca"&gt;&lt;img width="" height="" property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/blog-images/2022-11/hayqueverlo-blog-apache-ubuntu.svg" alt="servidor Apache web a Ubuntu 22" loading="lazy" typeof="foaf:Image" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Instal·lació d'un servidor web Apache2, amb base de dades MariaDB i diferents versions de PHP&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/configurar-servidor-web-ubuntu-22-mariadb" rel="tag" title="Instal·lació d'un servidor web a Ubuntu 22.x" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Instal·lació d'un servidor web a Ubuntu 22.x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Nov 2022 14:30:38 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">36 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Eliminar o modificar los metadatos de las imágenes</title>
+  <link>https://www.hayqueverlo.com/es/blog/metadatos-exif-imagenes</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Eliminar o modificar les metadades de les imatges&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2022-10-31T15:12:37+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 16:12&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/metadades-exif-imatges" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2022-10/metadatos_miniatura_0.jpg?itok=wXT7qs82" width="220" height="124" alt="metadades de les imatges" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Els arxius d'imatges contenen més informació a part de la corresponent a la pròpia imatge... T'expliquem com editar-la.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/metadades-exif-imatges" rel="tag" title="Eliminar o modificar les metadades de les imatges" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Eliminar o modificar les metadades de les imatges&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 14:38:35 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">17 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

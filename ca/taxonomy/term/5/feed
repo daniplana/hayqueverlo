@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/ca">
+  <channel>
+    <title>Disseny Web</title>
+    <link>https://www.hayqueverlo.com/ca</link>
+    <description/>
+    <language>ca</language>
+    
+    <item>
+  <title>La Linux Foundation llença el gestor de paquets FAIR per al WordPress</title>
+  <link>https://www.hayqueverlo.com/ca/node/59</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;La Linux Foundation llença el gestor de paquets FAIR per al WordPress&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2025-06-12T10:38:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/12/2025 - 12:38&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/node/59" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2025-06/FAIR-linux-foundation_0.png?itok=aAW0eDQ4" width="220" height="147" alt="FAIR WordPress Package Manager" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Per descentralitzar la infraestructura de WordPress. Millorant la transparència en la gestió de temes i complements.&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/node/59" rel="tag" title="La Linux Foundation llença el gestor de paquets FAIR per al WordPress" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about La Linux Foundation llença el gestor de paquets FAIR per al WordPress&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2025 10:38:16 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">59 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Comparativa de sistemas de compilación de hojas de estilo CSS</title>
+  <link>https://www.hayqueverlo.com/es/blog/comparativa-sass-less-stylus-postcss-tailwind</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Comparativa de sistemes de compilació de fulls d'estil CSS&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2025-06-04T18:03:40+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/04/2025 - 20:03&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/comparativa-sass-less-stylus-postcss-tailwind" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2025-06/hayqueverlo-disenyadora.png?itok=Er-R7vbF" width="220" height="220" alt="Blog Hayqueverlo" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Comparem els més populars: Sass, Less, PostCSS, i frameworks amb compilació integrada com Tailwind CSS&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/comparativa-sass-less-stylus-postcss-tailwind" rel="tag" title="Comparativa de sistemes de compilació de fulls d'estil CSS" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Comparativa de sistemes de compilació de fulls d'estil CSS&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 04 Jun 2025 17:30:17 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">57 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Presentación Mobile App SuitCRM.com</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/landing-page-suitcrm</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Presentació d'una Mobile App SuitCRM.com&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/16/2022 - 14:48&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/landing-page-suitcrm" rel="tag" title="Presentació d'una Mobile App SuitCRM.com" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Presentació d'una Mobile App SuitCRM.com&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Mini site presentación d'una app per a dispositius mòbils.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:26:06 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">25 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Auditoria de la Innovación</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/auditoria-innovacion</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Auditoria de la Innovació&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 20:09&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/auditoria-innovacio" rel="tag" title="Auditoria de la Innovació" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Auditoria de la Innovació&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Presentació per a "El libro rojo de la innovación". &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 21:19:43 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">10 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para la consultora eB4IT</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/consultora%20-eb4it</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a la consultora eB4IT&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 11/03/2022 - 15:23&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/consultora%20-eb4it" rel="tag" title="Web per a la consultora eB4IT" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per a la consultora eB4IT&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per a l'empresa de consultoria tecnològica eB4IT.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sat, 29 Oct 2022 20:04:32 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">8 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para la compañia de teatro Cachivaches</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/teatro-la-tremens</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a la companyia de teatre La Tremens&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 10/31/2022 - 17:10&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/teatre-la-tremens" rel="tag" title="Web per a la companyia de teatre La Tremens" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per a la companyia de teatre La Tremens&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Pàgina web per a una companyia de teatre.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:08:13 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">23 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Landing Page para fabricante de cafeteras</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/slow-expresso</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Landing Page per a un fabricant de cafeteres&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 11/06/2022 - 06:16&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/slow-expresso" rel="tag" title="Landing Page per a un fabricant de cafeteres" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Landing Page per a un fabricant de cafeteres&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Landing Page per al gruppo Ryoma.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 15:56:05 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">21 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>

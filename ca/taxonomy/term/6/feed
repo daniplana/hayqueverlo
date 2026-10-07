@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.hayqueverlo.com/ca">
+  <channel>
+    <title>Drupal</title>
+    <link>https://www.hayqueverlo.com/ca</link>
+    <description/>
+    <language>ca</language>
+    
+    <item>
+  <title>Preparant la transició cap a Drupal 11</title>
+  <link>https://www.hayqueverlo.com/ca/blog/actualitzar-drupal-11</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Preparant la transició cap a Drupal 11&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-09-13T08:43:44+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 09/13/2024 - 10:43&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+            &lt;div class="field field--name-field-image field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://www.hayqueverlo.com/ca/blog/actualitzar-drupal-11" hreflang="ca"&gt;&lt;img property="schema:image" src="https://www.hayqueverlo.com/sites/default/files/styles/medium/public/blog-images/2024-09/drupal%2011.jpg?itok=LbAfcPm7" width="220" height="164" alt="Drupal 11" loading="lazy" typeof="foaf:Image" class="image-style-medium" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Eines per actualitzar a Drupal 11&lt;/div&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/blog/actualitzar-drupal-11" rel="tag" title="Preparant la transició cap a Drupal 11" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Preparant la transició cap a Drupal 11&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Fri, 13 Sep 2024 08:43:44 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">56 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para Valuup.es</title>
+  <link>https://www.hayqueverlo.com/es/node/55</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a Valuup.es&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 03/21/2024 - 16:11&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/node/55" rel="tag" title="Web per a Valuup.es" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per a Valuup.es&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per a Valuup.es&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 21 Mar 2024 14:54:28 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">55 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para el Gimnàs Social Sant Pau</title>
+  <link>https://www.hayqueverlo.com/es/node/53</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per al Gimnàs Social Sant Pau&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/07/2023 - 16:08&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/node/53" rel="tag" title="Web per al Gimnàs Social Sant Pau" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per al Gimnàs Social Sant Pau&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per al Gimnàs Social Sant Pau&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Wed, 07 Jun 2023 14:04:26 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">53 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para una libreria con tienda online</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/libreria-tienda-online</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a una llibreria amb botiga online&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 05/18/2023 - 13:42&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/llibreria-botiga-online" rel="tag" title="Web per a una llibreria amb botiga online" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per a una llibreria amb botiga online&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per a una llibreria amb botiga online&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 18 May 2023 11:38:43 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">51 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Venta de discos de vinilo</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/tienda-online-discos</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Venda de discs de vinil&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 05/18/2023 - 13:37&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/botiga-online-discos" rel="tag" title="Venda de discs de vinil" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Venda de discs de vinil&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Venda de discs de vinil&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 18 May 2023 11:26:57 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">50 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Poesía Espontánea</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/poesia-espontanea</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Poesia Espontànea&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 11/29/2022 - 17:08&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/poesia-espontanea" rel="tag" title="Poesia Espontànea" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Poesia Espontànea&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per a l'esdeveniment cultural Poesía Espontánea&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Tue, 29 Nov 2022 15:38:03 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">48 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Web para la compañia de teatro Cachivaches</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/teatro-cachivaches</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Web per a la companyia de teatre Cachivaches&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/16/2022 - 14:55&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/teatre-cachivaches" rel="tag" title="Web per a la companyia de teatre Cachivaches" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Web per a la companyia de teatre Cachivaches&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web per a una companyia de teatre.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:48:09 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">32 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Presentación de empresa Procon Systems</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/procon-systems</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Presentació de l'empresa Procon Systems&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/16/2022 - 14:50&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/procon-systems" rel="tag" title="Presentació de l'empresa Procon Systems" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Presentació de l'empresa Procon Systems&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Web presentación de una empresa de ingenieria.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:34:53 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">28 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Catálogos de temporada Almatrichi.com</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/catalogos-temporada-almatrichi-drupal</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Catàlegs de temporada Almatrichi.com&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/16/2022 - 14:43&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/catalegs-temporada-almatrichi-drupal" rel="tag" title="Catàlegs de temporada Almatrichi.com" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Catàlegs de temporada Almatrichi.com&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Drupal fashion web site&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:39:33 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">30 at https://www.hayqueverlo.com</guid>
+    </item>
+<item>
+  <title>Portfolio para el fotógrafo David Ruano</title>
+  <link>https://www.hayqueverlo.com/es/proyectos-realizados/fotografia-david-ruano</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Portfoli per al fotograf David Ruano&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.hayqueverlo.com/ca/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;webmaster&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/16/2022 - 14:39&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+        &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://www.hayqueverlo.com/ca/projectes-realitzats/fotografia-david-ruano" rel="tag" title="Portfoli per al fotograf David Ruano" hreflang="ca"&gt;Read more&lt;span class="visually-hidden"&gt; about Portfoli per al fotograf David Ruano&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;Implementació d'un sistema per a poder actualitzar el book d'un fotograf.&lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Mon, 31 Oct 2022 16:42:39 +0000</pubDate>
+    <dc:creator>webmaster</dc:creator>
+    <guid isPermaLink="false">31 at https://www.hayqueverlo.com</guid>
+    </item>
+
+  </channel>
+</rss>
